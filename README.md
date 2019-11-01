@@ -9,7 +9,8 @@
 # PROJECT DESCRIPTION
 
 # LANGUAGE USED
-## 
+## -HTML
+## - CSS 
 
 # CONTACT
 ## Contact Joseph at
