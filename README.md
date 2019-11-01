@@ -4,6 +4,8 @@
 # PROJECT NAME 
 ## Delani Studio
 
+# SETUP
+
 # PROJECT DESCRIPTION
 
 # LANGUAGE USED
