@@ -5,6 +5,8 @@
 ## Delani Studio
 
 # SETUP
+# DEPENDENCIES
+## 
 
 # PROJECT DESCRIPTION
 
