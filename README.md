@@ -12,6 +12,8 @@
 ## 
 
 # CONTACT
+## Contact Joseph at
+- cr.muturi@gmail.com
 
 # LICENSE
 
