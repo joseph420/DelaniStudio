@@ -23,6 +23,7 @@ body{
     padding: 10px;
     font-size: 2.5vh;
     font-weight: bold;
+    color: white;
 }
 .services {
     background-image: url("../Images/Backgrounds/s_image.jpg");
@@ -36,11 +37,13 @@ body{
   }
   .About, .services {
     font-family: "Lora";
+  
   }
   #Work {
     padding-top: 4%;
     background-color: white;
     font-family: "Poppins";
+    
   }
   #Work p {
     color: black;
